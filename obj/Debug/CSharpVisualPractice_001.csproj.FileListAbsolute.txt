@@ -1,0 +1,9 @@
+c:\users\shane\documents\visual studio 2012\Projects\CSharpVisualPractice_001\CSharpVisualPractice_001\bin\Debug\CSharpVisualPractice_001.exe.config
+c:\users\shane\documents\visual studio 2012\Projects\CSharpVisualPractice_001\CSharpVisualPractice_001\bin\Debug\CSharpVisualPractice_001.exe
+c:\users\shane\documents\visual studio 2012\Projects\CSharpVisualPractice_001\CSharpVisualPractice_001\bin\Debug\CSharpVisualPractice_001.pdb
+c:\users\shane\documents\visual studio 2012\Projects\CSharpVisualPractice_001\CSharpVisualPractice_001\obj\Debug\CSharpVisualPractice_001.csprojResolveAssemblyReference.cache
+c:\users\shane\documents\visual studio 2012\Projects\CSharpVisualPractice_001\CSharpVisualPractice_001\obj\Debug\CSharpVisualPractice_001.Properties.Resources.resources
+c:\users\shane\documents\visual studio 2012\Projects\CSharpVisualPractice_001\CSharpVisualPractice_001\obj\Debug\CSharpVisualPractice_001.csproj.GenerateResource.Cache
+c:\users\shane\documents\visual studio 2012\Projects\CSharpVisualPractice_001\CSharpVisualPractice_001\obj\Debug\CSharpVisualPractice_001.exe
+c:\users\shane\documents\visual studio 2012\Projects\CSharpVisualPractice_001\CSharpVisualPractice_001\obj\Debug\CSharpVisualPractice_001.pdb
+c:\users\shane\documents\visual studio 2012\Projects\CSharpVisualPractice_001\CSharpVisualPractice_001\obj\Debug\CSharpVisualPractice_001.myWindow.resources
