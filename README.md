@@ -18,6 +18,6 @@ The files available to work on are:
 
 Any changes made are welcomed, but be sure to email me as to changes and such. Assistance on making my code more efficient are quite welcome as I am only beginning to delve into this language.
 
-Email: crickindaneck@hotmail.com, shaneb333@hotmail.com
+Email: crickindaneck@hotmail.com, shaneb_333@hotmail.com
 
 
